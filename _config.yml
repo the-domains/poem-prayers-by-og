@@ -1,0 +1,28 @@
+name: Poem Prayers by OG
+favicon: null
+layout_spectrum: 0.5386485122144222
+typography_spectrum: 0.5071164439432323
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.5821015704423189
+  lightness: 0.7137239205185324
+  saturation: 0.8691718375775963
+  rhythmicContrast: 0.5632810909301043
+purpose: []
